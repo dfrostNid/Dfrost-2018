@@ -35,7 +35,7 @@ p {
   width: 450px;
   height: 450px;
   display: block;
-  background: url('../img/logo.svg') center center no-repeat;
+  background: url('../img/logo2.svg') center center no-repeat;
   background-size: contain;
   margin: -50px auto;
   position: center;
@@ -116,7 +116,7 @@ a:focus, a:hover {
     padding-top: 10px;
     padding-bottom: 10px;
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-    background: black;
+    background: linear-gradient(to right, #F15B2D, #EB325B, #E61088);
   }
   #mainNav .nav-link.active {
     outline: none;
